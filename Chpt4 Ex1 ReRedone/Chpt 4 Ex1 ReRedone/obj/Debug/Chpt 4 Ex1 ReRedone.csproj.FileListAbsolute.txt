@@ -1,0 +1,4 @@
+D:\Chpt 4 Ex1 ReRedone\Chpt 4 Ex1 ReRedone\bin\Debug\Chpt 4 Ex1 ReRedone.exe.config
+D:\Chpt 4 Ex1 ReRedone\Chpt 4 Ex1 ReRedone\obj\Debug\Chpt 4 Ex1 ReRedone.csprojResolveAssemblyReference.cache
+E:\Programming 1\Chpt4 Ex1 ReRedone\Chpt 4 Ex1 ReRedone\bin\Debug\Chpt 4 Ex1 ReRedone.exe.config
+E:\Programming 1\Chpt4 Ex1 ReRedone\Chpt 4 Ex1 ReRedone\obj\Debug\Chpt 4 Ex1 ReRedone.csprojResolveAssemblyReference.cache

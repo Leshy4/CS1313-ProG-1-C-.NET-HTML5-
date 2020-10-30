@@ -1,0 +1,12 @@
+E:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\bin\Debug\Chpt4 Ex2.exe.config
+E:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\obj\Debug\Chpt4 Ex2.csprojResolveAssemblyReference.cache
+E:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\bin\Debug\Chpt4 Ex2.exe
+E:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\bin\Debug\Chpt4 Ex2.pdb
+E:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\obj\Debug\Chpt4 Ex2.exe
+E:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\obj\Debug\Chpt4 Ex2.pdb
+D:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\bin\Debug\Chpt4 Ex2.exe.config
+D:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\obj\Debug\Chpt4 Ex2.exe
+D:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\obj\Debug\Chpt4 Ex2.pdb
+D:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\bin\Debug\Chpt4 Ex2.exe
+D:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\bin\Debug\Chpt4 Ex2.pdb
+D:\Programming 1\Chpt4 Ex2\Chpt4 Ex2\obj\Debug\Chpt4 Ex2.csprojResolveAssemblyReference.cache

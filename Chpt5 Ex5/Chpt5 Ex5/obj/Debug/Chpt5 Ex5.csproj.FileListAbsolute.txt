@@ -1,0 +1,8 @@
+E:\Programming 1\Chpt5 Ex5\Chpt5 Ex5\bin\Debug\Chpt5 Ex5.exe.config
+D:\Programming 1\Chpt5 Ex5\Chpt5 Ex5\bin\Debug\Chpt5 Ex5.exe.config
+D:\Programming 1\Chpt5 Ex5\Chpt5 Ex5\bin\Debug\Chpt5 Ex5.exe
+D:\Programming 1\Chpt5 Ex5\Chpt5 Ex5\bin\Debug\Chpt5 Ex5.pdb
+D:\Programming 1\Chpt5 Ex5\Chpt5 Ex5\obj\Debug\Chpt5 Ex5.exe
+D:\Programming 1\Chpt5 Ex5\Chpt5 Ex5\obj\Debug\Chpt5 Ex5.pdb
+E:\Programming 1\Chpt5 Ex5\Chpt5 Ex5\obj\Debug\Chpt5 Ex5.exe
+E:\Programming 1\Chpt5 Ex5\Chpt5 Ex5\obj\Debug\Chpt5 Ex5.pdb
