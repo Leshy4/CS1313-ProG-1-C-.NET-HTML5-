@@ -1,0 +1,12 @@
+E:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\bin\Debug\Chpt 2 Ex2.exe.config
+E:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\bin\Debug\Chpt 2 Ex2.exe
+E:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\bin\Debug\Chpt 2 Ex2.pdb
+E:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\obj\Debug\Chpt 2 Ex2.csprojResolveAssemblyReference.cache
+E:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\obj\Debug\Chpt 2 Ex2.exe
+E:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\obj\Debug\Chpt 2 Ex2.pdb
+D:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\bin\Debug\Chpt 2 Ex2.exe.config
+D:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\obj\Debug\Chpt 2 Ex2.exe
+D:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\obj\Debug\Chpt 2 Ex2.pdb
+D:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\bin\Debug\Chpt 2 Ex2.exe
+D:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\bin\Debug\Chpt 2 Ex2.pdb
+D:\WELCH Prog 1\Chpt 2 Ex2\Chpt 2 Ex2\obj\Debug\Chpt 2 Ex2.csprojResolveAssemblyReference.cache
