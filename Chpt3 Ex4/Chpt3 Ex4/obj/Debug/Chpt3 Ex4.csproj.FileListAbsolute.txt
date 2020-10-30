@@ -1,0 +1,6 @@
+E:\Programming 1\Chpt3 Ex4\Chpt3 Ex4\bin\Debug\Chpt3 Ex4.exe.config
+E:\Programming 1\Chpt3 Ex4\Chpt3 Ex4\bin\Debug\Chpt3 Ex4.exe
+E:\Programming 1\Chpt3 Ex4\Chpt3 Ex4\bin\Debug\Chpt3 Ex4.pdb
+E:\Programming 1\Chpt3 Ex4\Chpt3 Ex4\obj\Debug\Chpt3 Ex4.csprojResolveAssemblyReference.cache
+E:\Programming 1\Chpt3 Ex4\Chpt3 Ex4\obj\Debug\Chpt3 Ex4.exe
+E:\Programming 1\Chpt3 Ex4\Chpt3 Ex4\obj\Debug\Chpt3 Ex4.pdb
