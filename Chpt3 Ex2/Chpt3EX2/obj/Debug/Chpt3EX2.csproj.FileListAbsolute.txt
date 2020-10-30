@@ -1,0 +1,15 @@
+E:\Programming 1\Chpt3EX2\Chpt3EX2\bin\Debug\Chpt3EX2.exe.config
+E:\Programming 1\Chpt3EX2\Chpt3EX2\obj\Debug\Chpt3EX2.csprojResolveAssemblyReference.cache
+E:\Programming 1\Chpt3EX2\Chpt3EX2\bin\Debug\Chpt3EX2.exe
+E:\Programming 1\Chpt3EX2\Chpt3EX2\bin\Debug\Chpt3EX2.pdb
+E:\Programming 1\Chpt3EX2\Chpt3EX2\obj\Debug\Chpt3EX2.exe
+E:\Programming 1\Chpt3EX2\Chpt3EX2\obj\Debug\Chpt3EX2.pdb
+D:\Programming 1\Chpt3EX2\Chpt3EX2\bin\Debug\Chpt3EX2.exe.config
+D:\Programming 1\Chpt3EX2\Chpt3EX2\obj\Debug\Chpt3EX2.exe
+D:\Programming 1\Chpt3EX2\Chpt3EX2\obj\Debug\Chpt3EX2.pdb
+D:\Programming 1\Chpt3EX2\Chpt3EX2\bin\Debug\Chpt3EX2.exe
+D:\Programming 1\Chpt3EX2\Chpt3EX2\bin\Debug\Chpt3EX2.pdb
+D:\Programming 1\Chpt3EX2\Chpt3EX2\obj\Debug\Chpt3EX2.csprojResolveAssemblyReference.cache
+E:\Programming 1\Chpt3 Ex2\Chpt3EX2\bin\Debug\Chpt3EX2.exe.config
+E:\Programming 1\Chpt3 Ex2\Chpt3EX2\obj\Debug\Chpt3EX2.exe
+E:\Programming 1\Chpt3 Ex2\Chpt3EX2\obj\Debug\Chpt3EX2.pdb
