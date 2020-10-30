@@ -1,0 +1,21 @@
+E:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\bin\Debug\Chpt2 Ex7.exe.config
+E:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\bin\Debug\Chpt2 Ex7.exe
+E:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\bin\Debug\Chpt2 Ex7.pdb
+E:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.csprojResolveAssemblyReference.cache
+E:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.exe
+E:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.pdb
+D:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\bin\Debug\Chpt2 Ex7.exe.config
+D:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.exe
+D:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.pdb
+D:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\bin\Debug\Chpt2 Ex7.exe
+D:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\bin\Debug\Chpt2 Ex7.pdb
+D:\WELCH Prog 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Finished College Work\Programming 1\Chpt2 Ex7\Chpt2 Ex7\bin\Debug\Chpt2 Ex7.exe.config
+C:\Users\Chris\Desktop\Finished College Work\Programming 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.exe
+C:\Users\Chris\Desktop\Finished College Work\Programming 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.pdb
+C:\Users\Chris\Desktop\Finished College Work\Programming 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Finished College Work\Programming 1\Chpt2 Ex7\Chpt2 Ex7\bin\Debug\Chpt2 Ex7.exe
+C:\Users\Chris\Desktop\Finished College Work\Programming 1\Chpt2 Ex7\Chpt2 Ex7\bin\Debug\Chpt2 Ex7.pdb
+D:\Programming 1\Chpt2 Ex7\Chpt2 Ex7\bin\Debug\Chpt2 Ex7.exe.config
+D:\Programming 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.exe
+D:\Programming 1\Chpt2 Ex7\Chpt2 Ex7\obj\Debug\Chpt2 Ex7.pdb
