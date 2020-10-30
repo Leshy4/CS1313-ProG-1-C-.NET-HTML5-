@@ -1,0 +1,12 @@
+E:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\bin\Debug\Chpt5 Ex10.exe.config
+E:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\bin\Debug\Chpt5 Ex10.exe
+E:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\bin\Debug\Chpt5 Ex10.pdb
+E:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\obj\Debug\Chpt5 Ex10.csprojResolveAssemblyReference.cache
+E:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\obj\Debug\Chpt5 Ex10.exe
+E:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\obj\Debug\Chpt5 Ex10.pdb
+D:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\bin\Debug\Chpt5 Ex10.exe.config
+D:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\obj\Debug\Chpt5 Ex10.exe
+D:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\obj\Debug\Chpt5 Ex10.pdb
+D:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\bin\Debug\Chpt5 Ex10.exe
+D:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\bin\Debug\Chpt5 Ex10.pdb
+D:\Programming 1\Chpt5 Ex10\Chpt5 Ex10\obj\Debug\Chpt5 Ex10.csprojResolveAssemblyReference.cache

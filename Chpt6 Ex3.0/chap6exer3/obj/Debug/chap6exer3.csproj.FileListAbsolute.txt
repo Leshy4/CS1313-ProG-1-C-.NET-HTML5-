@@ -1,0 +1,7 @@
+E:\sanyang Prog 1\chap6exer3\chap6exer3\bin\Debug\chap6exer3.exe.config
+D:\Programming 1\chap6exer3\chap6exer3\bin\Debug\chap6exer3.exe.config
+D:\Programming 1\chap6exer3\chap6exer3\obj\Debug\chap6exer3.csprojResolveAssemblyReference.cache
+D:\Programming 1\chap6exer3\chap6exer3\bin\Debug\chap6exer3.exe
+D:\Programming 1\chap6exer3\chap6exer3\bin\Debug\chap6exer3.pdb
+D:\Programming 1\chap6exer3\chap6exer3\obj\Debug\chap6exer3.exe
+D:\Programming 1\chap6exer3\chap6exer3\obj\Debug\chap6exer3.pdb

@@ -1,0 +1,12 @@
+E:\Programming 1\Chpt6\Chpt6\bin\Debug\Chpt6.exe.config
+E:\Programming 1\Chpt6\Chpt6\bin\Debug\Chpt6.exe
+E:\Programming 1\Chpt6\Chpt6\bin\Debug\Chpt6.pdb
+E:\Programming 1\Chpt6\Chpt6\obj\Debug\Chpt6.csprojResolveAssemblyReference.cache
+E:\Programming 1\Chpt6\Chpt6\obj\Debug\Chpt6.exe
+E:\Programming 1\Chpt6\Chpt6\obj\Debug\Chpt6.pdb
+D:\Programming 1\Chpt6\Chpt6\bin\Debug\Chpt6.exe.config
+D:\Programming 1\Chpt6\Chpt6\obj\Debug\Chpt6.exe
+D:\Programming 1\Chpt6\Chpt6\obj\Debug\Chpt6.pdb
+D:\Programming 1\Chpt6\Chpt6\bin\Debug\Chpt6.exe
+D:\Programming 1\Chpt6\Chpt6\bin\Debug\Chpt6.pdb
+D:\Programming 1\Chpt6\Chpt6\obj\Debug\Chpt6.csprojResolveAssemblyReference.cache

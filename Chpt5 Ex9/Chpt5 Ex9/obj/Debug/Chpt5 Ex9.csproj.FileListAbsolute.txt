@@ -1,0 +1,6 @@
+E:\Programming 1\Chpt5 Ex9\Chpt5 Ex9\bin\Debug\Chpt5 Ex9.exe.config
+E:\Programming 1\Chpt5 Ex9\Chpt5 Ex9\obj\Debug\Chpt5 Ex9.csprojResolveAssemblyReference.cache
+E:\Programming 1\Chpt5 Ex9\Chpt5 Ex9\bin\Debug\Chpt5 Ex9.exe
+E:\Programming 1\Chpt5 Ex9\Chpt5 Ex9\bin\Debug\Chpt5 Ex9.pdb
+E:\Programming 1\Chpt5 Ex9\Chpt5 Ex9\obj\Debug\Chpt5 Ex9.exe
+E:\Programming 1\Chpt5 Ex9\Chpt5 Ex9\obj\Debug\Chpt5 Ex9.pdb
