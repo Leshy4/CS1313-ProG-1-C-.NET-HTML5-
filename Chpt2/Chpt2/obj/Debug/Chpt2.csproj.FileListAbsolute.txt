@@ -1,0 +1,16 @@
+E:\WELCH Prog 1\Chpt2\Chpt2\bin\Debug\Chpt2.exe.config
+E:\WELCH Prog 1\Chpt2\Chpt2\bin\Debug\Chpt2.exe
+E:\WELCH Prog 1\Chpt2\Chpt2\bin\Debug\Chpt2.pdb
+E:\WELCH Prog 1\Chpt2\Chpt2\obj\Debug\Chpt2.csprojResolveAssemblyReference.cache
+E:\WELCH Prog 1\Chpt2\Chpt2\obj\Debug\Chpt2.exe
+E:\WELCH Prog 1\Chpt2\Chpt2\obj\Debug\Chpt2.pdb
+D:\Programming 1\Chpt2\Chpt2\bin\Debug\Chpt2.exe.config
+D:\Programming 1\Chpt2\Chpt2\obj\Debug\Chpt2.exe
+D:\Programming 1\Chpt2\Chpt2\obj\Debug\Chpt2.pdb
+C:\Users\leshy\Desktop\ORGANIZE\Programming 1\Chpt2\Chpt2\bin\Debug\Chpt2.exe.config
+C:\Users\leshy\Desktop\ORGANIZE\Programming 1\Chpt2\Chpt2\bin\Debug\Chpt2.exe
+C:\Users\leshy\Desktop\ORGANIZE\Programming 1\Chpt2\Chpt2\bin\Debug\Chpt2.pdb
+C:\Users\leshy\Desktop\ORGANIZE\Programming 1\Chpt2\Chpt2\obj\Debug\Chpt2.csprojAssemblyReference.cache
+C:\Users\leshy\Desktop\ORGANIZE\Programming 1\Chpt2\Chpt2\obj\Debug\Chpt2.csproj.CoreCompileInputs.cache
+C:\Users\leshy\Desktop\ORGANIZE\Programming 1\Chpt2\Chpt2\obj\Debug\Chpt2.exe
+C:\Users\leshy\Desktop\ORGANIZE\Programming 1\Chpt2\Chpt2\obj\Debug\Chpt2.pdb
