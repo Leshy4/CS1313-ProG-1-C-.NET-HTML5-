@@ -1,0 +1,12 @@
+E:\Programming 1\Chpt3\Chpt3\bin\Debug\Chpt3.exe.config
+E:\Programming 1\Chpt3\Chpt3\bin\Debug\Chpt3.exe
+E:\Programming 1\Chpt3\Chpt3\bin\Debug\Chpt3.pdb
+E:\Programming 1\Chpt3\Chpt3\obj\Debug\Chpt3.csprojResolveAssemblyReference.cache
+E:\Programming 1\Chpt3\Chpt3\obj\Debug\Chpt3.exe
+E:\Programming 1\Chpt3\Chpt3\obj\Debug\Chpt3.pdb
+D:\Programming 1\Chpt3\Chpt3\bin\Debug\Chpt3.exe.config
+D:\Programming 1\Chpt3\Chpt3\obj\Debug\Chpt3.exe
+D:\Programming 1\Chpt3\Chpt3\obj\Debug\Chpt3.pdb
+D:\Programming 1\Chpt3\Chpt3\bin\Debug\Chpt3.exe
+D:\Programming 1\Chpt3\Chpt3\bin\Debug\Chpt3.pdb
+D:\Programming 1\Chpt3\Chpt3\obj\Debug\Chpt3.csprojResolveAssemblyReference.cache
