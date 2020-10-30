@@ -1,0 +1,12 @@
+E:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\bin\Debug\Chpt7 Ex2.exe.config
+E:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\bin\Debug\Chpt7 Ex2.exe
+E:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\bin\Debug\Chpt7 Ex2.pdb
+E:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\obj\Debug\Chpt7 Ex2.exe
+E:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\obj\Debug\Chpt7 Ex2.pdb
+E:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\obj\Debug\Chpt7 Ex2.csprojResolveAssemblyReference.cache
+D:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\bin\Debug\Chpt7 Ex2.exe.config
+D:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\obj\Debug\Chpt7 Ex2.exe
+D:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\obj\Debug\Chpt7 Ex2.pdb
+D:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\bin\Debug\Chpt7 Ex2.exe
+D:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\bin\Debug\Chpt7 Ex2.pdb
+D:\Programming 1\Chpt7 Ex2\Chpt7 Ex2\obj\Debug\Chpt7 Ex2.csprojResolveAssemblyReference.cache

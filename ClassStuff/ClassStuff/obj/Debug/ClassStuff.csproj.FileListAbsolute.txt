@@ -1,0 +1,12 @@
+E:\Programming 1\ClassStuff\ClassStuff\bin\Debug\ClassStuff.exe.config
+E:\Programming 1\ClassStuff\ClassStuff\bin\Debug\ClassStuff.exe
+E:\Programming 1\ClassStuff\ClassStuff\bin\Debug\ClassStuff.pdb
+E:\Programming 1\ClassStuff\ClassStuff\obj\Debug\ClassStuff.csprojResolveAssemblyReference.cache
+E:\Programming 1\ClassStuff\ClassStuff\obj\Debug\ClassStuff.exe
+E:\Programming 1\ClassStuff\ClassStuff\obj\Debug\ClassStuff.pdb
+D:\Programming 1\ClassStuff\ClassStuff\bin\Debug\ClassStuff.exe.config
+D:\Programming 1\ClassStuff\ClassStuff\obj\Debug\ClassStuff.exe
+D:\Programming 1\ClassStuff\ClassStuff\obj\Debug\ClassStuff.pdb
+D:\Programming 1\ClassStuff\ClassStuff\bin\Debug\ClassStuff.exe
+D:\Programming 1\ClassStuff\ClassStuff\bin\Debug\ClassStuff.pdb
+D:\Programming 1\ClassStuff\ClassStuff\obj\Debug\ClassStuff.csprojResolveAssemblyReference.cache
