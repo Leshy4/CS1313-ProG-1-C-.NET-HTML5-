@@ -1,0 +1,9 @@
+E:\WELCH Prog 1\Chapt1\Chapt1\bin\Debug\Chapt1.exe.config
+E:\WELCH Prog 1\Chapt1\Chapt1\bin\Debug\Chapt1.exe
+E:\WELCH Prog 1\Chapt1\Chapt1\bin\Debug\Chapt1.pdb
+E:\WELCH Prog 1\Chapt1\Chapt1\obj\Debug\Chapt1.csprojResolveAssemblyReference.cache
+E:\WELCH Prog 1\Chapt1\Chapt1\obj\Debug\Chapt1.exe
+E:\WELCH Prog 1\Chapt1\Chapt1\obj\Debug\Chapt1.pdb
+D:\Programming 1\Chapt1\Chapt1\bin\Debug\Chapt1.exe.config
+D:\Programming 1\Chapt1\Chapt1\obj\Debug\Chapt1.exe
+D:\Programming 1\Chapt1\Chapt1\obj\Debug\Chapt1.pdb
